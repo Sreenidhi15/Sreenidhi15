@@ -106,23 +106,13 @@ $ ls ~/active-projects/
 
 **Leadership & Extracurriculars**
 
-| Role | Organization | Year |
-|---|---|---|
-| Technical Head | IEEE Student Branch | 2023–2024 |
-| Joint Secretary | Talk Club | 2023–2024 |
-| CTF Member | NUSec, Northeastern University | Present |
-| Member | Dynamite Dance Crew | 2022–2025 |
-| Event Planning Committee Member | Inter-college Events | 2021–2022 |
-| Junior Public Manager | Entrepreneurship Development Cell (EDC) | 2021–2022 |
-| Event Team Head | College Cultural Fest | 2021–2022 |
-
-- **Technical Head – IEEE Student Branch** (2023–2024): Directed technical events, workshops, and hackathons; guided peers in IoT and cybersecurity projects, strengthening teamwork and innovation.
-- **Joint Secretary – Talk Club** (2023–2024): Organized seminars, debates, and workshops on career development and foreign languages; managed social media and marketing to boost student engagement.
-- **Junior Public Manager – EDC** (2021–2022): Coordinated E-Summit'22, a 3-day entrepreneurship event with Smriti Irani as Chief Guest; handled logistics and participant management.
-- **Event Team Head – Cultural Fest** (2021–2022): Led two teams for separate cultural and technical events; managed budgeting, fund transfers, poster design, and event promotion.
-- **Event Planning Committee Member** (2021–2022): Coordinated with vendors, managed budgets, and maintained resource tallies for inter-college events.
-- **Dynamite Dance Crew** (2022–2025): Performed in college events and competitions; classical Bharatnatyam dancer with 8 years of experience.
-- **Honors in Cybersecurity** — B.E. Electronic & Telecom, Dr. D. Y. Patil Institute
+- **Technical Head – IEEE Student Branch** (2023–2024): Directed technical events, workshops, and hackathons; guided peers in IoT and cybersecurity projects.
+- **Joint Secretary – Talk Club** (2023–2024): Organized seminars, debates, and workshops; managed social media and marketing to boost student engagement.
+- **CTF Member – NUSec, Northeastern University**
+- **Dynamite Dance Crew** (2022–2025): Performed in college events; classical Bharatnatyam dancer with 8 years of experience.
+- **Junior Public Manager – EDC** (2021–2022): Coordinated E-Summit'22 featuring Smriti Irani as Chief Guest; handled logistics and participant management.
+- **Event Team Head – Cultural Fest** (2021–2022): Led teams for cultural and technical events; managed budgeting, poster design, and event promotion.
+- **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
 
 **Publications**
 
