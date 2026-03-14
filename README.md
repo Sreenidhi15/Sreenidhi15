@@ -51,7 +51,6 @@ $ ls ~/active-projects/
 
 [1]  soc-home-lab/              # Building a personal SOC lab with log ingestion, alerting & threat detection
 [2]  malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in an isolated sandbox environment
-[3]  firmware-security-scanner/ # Researching embedded firmware extraction and vulnerability identification
 ```
 
 ---
@@ -90,7 +89,6 @@ $ ls ~/active-projects/
 
 **Infrastructure & Platforms**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=flat-square)
 ![Arduino/ESP8266](https://img.shields.io/badge/Arduino_|_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -108,7 +106,7 @@ $ ls ~/active-projects/
 
 - **Technical Head – IEEE Student Branch** (2023–2024): Directed technical events, workshops, and hackathons; guided peers in IoT and cybersecurity projects.
 - **Joint Secretary – Talk Club** (2023–2024): Organized seminars, debates, and workshops; managed social media and marketing to boost student engagement.
-- **CTF Member – NUSec, Northeastern University**
+- **CTF Member – NUSec, Northeastern University**: Active member of Northeastern University's CTF club, participating in team-based security competitions and collaborative problem-solving.
 - **Dynamite Dance Crew** (2022–2025): Performed in college events; classical Bharatnatyam dancer with 8 years of experience.
 - **Junior Public Manager – EDC** (2021–2022): Coordinated E-Summit'22 featuring Smriti Irani as Chief Guest; handled logistics and participant management.
 - **Event Team Head – Cultural Fest** (2021–2022): Led teams for cultural and technical events; managed budgeting, poster design, and event promotion.
