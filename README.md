@@ -7,8 +7,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/sreenidhi-ramani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sreenidhi15.github.io"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sreenidhiramani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 </p>
@@ -123,7 +122,7 @@ $ ls ~/active-projects/
 
 <div align="center">
 
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sreenidhi-ramani) · Visit [Portfolio](https://sreenidhi15.github.io)
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sreenidhiramani/)
 
 </div>
 
