@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://github.com/Sreenidhi15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%BE+I'm+Sreenidhi+Ramani;Cybersecurity+Graduate+Student;CTF+Player+%7C+Penetration+Tester;Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%BE+I'm+Sreenidhi+Ramani;CTF+Player+%7C+Penetration+Tester;Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
 </a>
 
 <!-- Social Badges -->
