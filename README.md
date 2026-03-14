@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://github.com/Sreenidhi15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%BE+I'm+Sreenidhi+Ramani;CTF+Player+%7C+Penetration+Tester;Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%BE+I'm+Sreenidhi+Ramani;Graduate+Student+%7C+Security+Researcher;CTF+Player+%7C+Penetration+Tester;Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
 </a>
 
 <!-- Social Badges -->
@@ -36,10 +36,11 @@
 
 I'm a Graduate Student passionate about **hardware security, web application security, and digital forensics**.
 
-- 🎓 Pursuing Master's in **Electrical and Computer Engineering** at Northeastern University
-- 🌱 Currently diving into **static malware analysis** — reverse engineering suspicious binaries and exploring **hardware security** vulnerabilities at the firmware level
-- 🕵️‍♀️ Love participating in **CTF challenges** to sharpen my problem-solving and investigative skills
-- 💡 New to open source and excited to contribute to meaningful security projects
+- Pursuing Master's in **Electrical and Computer Engineering** at Northeastern University, with a focus in **cybersecurity**
+- I enjoy bridging the gap between software and hardware security — from firmware-level vulnerabilities to application layer threats
+- Currently diving into **static malware analysis**, reverse engineering suspicious binaries, and exploring hardware security at the embedded level
+- Love participating in **CTF challenges** to sharpen my problem-solving and investigative skills
+- New to open source and excited to contribute to meaningful security projects
 
 ---
 
@@ -48,8 +49,9 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 ```bash
 $ ls ~/active-projects/
 
-[1] 🛡️  soc-home-lab/          # Building a personal SOC lab with log ingestion, alerting & threat detection
-[2] 🔍  osint-recon-toolkit/   # Automating open-source intelligence gathering for target profiling
+[1]  soc-home-lab/              # Building a personal SOC lab with log ingestion, alerting & threat detection
+[2]  malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in an isolated sandbox environment
+[3]  firmware-security-scanner/ # Researching embedded firmware extraction and vulnerability identification
 ```
 
 ---
@@ -89,7 +91,6 @@ $ ls ~/active-projects/
 **Infrastructure & Platforms**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=flat-square)
 ![Arduino/ESP8266](https://img.shields.io/badge/Arduino_|_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -101,37 +102,32 @@ $ ls ~/active-projects/
 
 ---
 
-## `> ls projects/`
-
-| 🔐 Project | Description | Stack |
-|---|---|---|
-| [**PQC IoT Key Exchange**](https://github.com/Sreenidhi15) | Module-LWE post-quantum key exchange for IoT — 0.087ms compute, 100% success @ 50 nodes | `Python` `NS-3` |
-| [**Secure Instant Messaging**](https://github.com/Sreenidhi15) | End-to-end encrypted chat system for CY6740 Network Security | `Python` `AES-GCM` `RSA` |
-| [**Hybrid File Encryption**](https://github.com/Sreenidhi15) | AES-256-GCM + RSA-OAEP + RSA-PSS file encryption CLI | `Python` `OpenSSL` |
-| [**ESP8266 DDoS Simulator**](https://github.com/Sreenidhi15) | Educational DDoS simulation on embedded hardware (faculty-supervised) | `C++` `ESP8266` `MQTT` |
-| [**Portfolio — CTF Entry**](https://sreenidhi15.github.io) | Personal site with Caesar cipher gate — red/black hacker aesthetic | `HTML` `JS` `GitHub Pages` |
-
----
-
-## `> cat ctf_notes.md`
-
-```
-🏁 Active CTF Player — NUSec @ Northeastern
-📡 Platforms  : HackTheBox · TryHackMe · on-campus events
-🔎 Specialties: OSINT · Web Exploitation · Crypto · Forensics
-🛠️ Attended   : OSINT Workshops · NUSec CTF events
-```
-
----
-
 ## `> cat achievements.txt`
 
-- 🏆 **Technical Head** — IEEE Student Branch, Northeastern University
-- 🎙️ **Joint Secretary** — Talk Club, Northeastern University
-- 🕵️ **CTF Member** — NUSec, Northeastern University
-- 📄 **Published** — *PrepPal: AI Study Assistant* · IJERT/ICSCSET 2025
-- 📄 **Published** — *Cloud Storage Connected Security Safe* · IJRASET 2022
-- 🎓 **Honors in Cybersecurity** — B.E. Electronic & Telecom, Dr. D. Y. Patil Institute
+**Leadership & Extracurriculars**
+
+| Role | Organization | Year |
+|---|---|---|
+| Technical Head | IEEE Student Branch | 2023–2024 |
+| Joint Secretary | Talk Club | 2023–2024 |
+| CTF Member | NUSec, Northeastern University | Present |
+| Member | Dynamite Dance Crew | 2022–2025 |
+| Event Planning Committee Member | Inter-college Events | 2021–2022 |
+| Junior Public Manager | Entrepreneurship Development Cell (EDC) | 2021–2022 |
+| Event Team Head | College Cultural Fest | 2021–2022 |
+
+- **Technical Head – IEEE Student Branch** (2023–2024): Directed technical events, workshops, and hackathons; guided peers in IoT and cybersecurity projects, strengthening teamwork and innovation.
+- **Joint Secretary – Talk Club** (2023–2024): Organized seminars, debates, and workshops on career development and foreign languages; managed social media and marketing to boost student engagement.
+- **Junior Public Manager – EDC** (2021–2022): Coordinated E-Summit'22, a 3-day entrepreneurship event with Smriti Irani as Chief Guest; handled logistics and participant management.
+- **Event Team Head – Cultural Fest** (2021–2022): Led two teams for separate cultural and technical events; managed budgeting, fund transfers, poster design, and event promotion.
+- **Event Planning Committee Member** (2021–2022): Coordinated with vendors, managed budgets, and maintained resource tallies for inter-college events.
+- **Dynamite Dance Crew** (2022–2025): Performed in college events and competitions; classical Bharatnatyam dancer with 8 years of experience.
+- **Honors in Cybersecurity** — B.E. Electronic & Telecom, Dr. D. Y. Patil Institute
+
+**Publications**
+
+- 📄 [**PrepPal: AI Study Assistant**](https://www.ijert.org/preppal-your-go-to-website-for-study-mates-and-exam-preparation) · IJERT/ICSCSET 2025
+- 📄 [**Cloud Storage Connected Security Safe**](https://www.ijraset.com/best-journal/cloud-storage-connected-security-safe) · IJRASET 2022
 
 ---
 
