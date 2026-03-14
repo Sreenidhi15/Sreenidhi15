@@ -2,19 +2,16 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://github.com/Sreenidhi15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%BE+I'm+Sreenidhi+Venkataramanan;Cybersecurity+Graduate+Student;CTF+Player+%7C+Penetration+Tester;Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%BE+I'm+Sreenidhi+Ramani;Cybersecurity+Graduate+Student;CTF+Player+%7C+Penetration+Tester;Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
 </a>
 
 <!-- Social Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/sreenidhi-venkataramanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sreenidhi-ramani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://sreenidhi15.github.io"><img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 </p>
-
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Sreenidhi15&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -30,28 +27,29 @@
 ```
 
 <div align="center">
-  <i>🎓 M.S. Electrical & Computer Engineering @ Northeastern University · Boston, MA</i><br/>
-  <i>🔍 Actively seeking Cybersecurity Co-op/Internship — Available April 2026 (F-1 OPT/CPT)</i>
+  <i>🎓 M.S. Electrical & Computer Engineering @ Northeastern University · Boston, MA</i>
 </div>
 
 ---
 
 ## `> whoami`
 
-```python
-class Sreenidhi:
-    role        = "Cybersecurity Graduate Student"
-    university  = "Northeastern University (Dec 2027)"
-    undergrad   = "Dr. D. Y. Patil Institute — B.E. Telecom + Cybersecurity Honors"
-    location    = "Boston, MA"
-    visa        = "F-1 (OPT/CPT eligible)"
-    ctf_teams   = ["NUSec @ Northeastern"]
-    interests   = ["Penetration Testing", "Post-Quantum Cryptography",
-                   "Network Security", "Digital Forensics", "AppSec"]
-    currently   = ["Hunting flags on HackTheBox & TryHackMe",
-                   "Building a PQC key exchange for IoT (module-LWE + NS-3)",
-                   "Seeking Summer/Fall 2026 Security Co-op"]
-    fun_fact    = "I once built a DDoS simulation on an ESP8266. For research. 😇"
+I'm a Graduate Student passionate about **hardware security, web application security, and digital forensics**.
+
+- 🎓 Pursuing Master's in **Electrical and Computer Engineering** at Northeastern University
+- 🌱 Currently diving into **static malware analysis** — reverse engineering suspicious binaries and exploring **hardware security** vulnerabilities at the firmware level
+- 🕵️‍♀️ Love participating in **CTF challenges** to sharpen my problem-solving and investigative skills
+- 💡 New to open source and excited to contribute to meaningful security projects
+
+---
+
+## `> ./current_work.sh`
+
+```bash
+$ ls ~/active-projects/
+
+[1] 🛡️  soc-home-lab/          # Building a personal SOC lab with log ingestion, alerting & threat detection
+[2] 🔍  osint-recon-toolkit/   # Automating open-source intelligence gathering for target profiling
 ```
 
 ---
@@ -83,14 +81,23 @@ class Sreenidhi:
 ![RSA/OAEP](https://img.shields.io/badge/RSA_OAEP-grey?style=flat-square)
 ![Post-Quantum](https://img.shields.io/badge/Post--Quantum_Crypto_(LWE)-9FEF00?style=flat-square&logoColor=black)
 
-**Infrastructure & Platforms**
+**Operating Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+**Infrastructure & Platforms**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=flat-square)
 ![Arduino/ESP8266](https://img.shields.io/badge/Arduino_|_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**Tools**
+
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -117,25 +124,6 @@ class Sreenidhi:
 
 ---
 
-## `> ./github_stats.sh`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sreenidhi15&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=FF0000&icon_color=FF0000&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreenidhi15&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF0000&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreenidhi15&theme=dark&hide_border=true&background=0d0d0d&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreenidhi15&theme=redical&bg_color=0d0d0d&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## `> cat achievements.txt`
 
 - 🏆 **Technical Head** — IEEE Student Branch, Northeastern University
@@ -151,13 +139,7 @@ class Sreenidhi:
 
 <div align="center">
 
-💼 **Open to:** Security Co-op · Internship · Research (Summer/Fall 2026, available April 2026)
-
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sreenidhi-venkataramanan) · Visit [Portfolio](https://sreenidhi15.github.io)
-
-<br/>
-
-*"The quieter you become, the more you are able to hear."* — Kali Linux motto
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sreenidhi-ramani) · Visit [Portfolio](https://sreenidhi15.github.io)
 
 </div>
 
