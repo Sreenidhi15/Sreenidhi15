@@ -8,6 +8,7 @@
 <!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/sreenidhiramani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ramani.sr@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
   <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
 </p>
@@ -122,7 +123,7 @@ $ ls ~/active-projects/
 
 <div align="center">
 
-📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sreenidhiramani/)
+📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sreenidhiramani/) · [ramani.sr@northeastern.edu](mailto:ramani.sr@northeastern.edu)
 
 </div>
 
