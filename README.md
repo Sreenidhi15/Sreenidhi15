@@ -2,8 +2,10 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://github.com/Sreenidhi15">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%BE+I'm+Sreenidhi+Ramani;Graduate+Student+%7C+Security+Researcher;CTF+Player+%7C+Penetration+Tester;Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%BE+I'm+SREENIDHI+RAMANI;Graduate+Student+%7C+Security+Researcher;CTF+Player+%7C+Penetration+Tester;Breaking+things+%E2%80%94+ethically." alt="Typing SVG" />
 </a>
+
+# SREENIDHI RAMANI
 
 <!-- Social Badges -->
 <p>
@@ -23,7 +25,7 @@
 ███████╗██████╔╝█████╗  █████╗  ██╔██╗ ██║██║██║  ██║███████║██║
 ╚════██║██╔══██╗██╔══╝  ██╔══╝  ██║╚██╗██║██║██║  ██║██╔══██║██║
 ███████║██║  ██║███████╗███████╗██║ ╚████║██║██████╔╝██║  ██║██║
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝ 
+╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝
 ```
 
 <div align="center">
@@ -37,7 +39,7 @@
 I'm a Graduate Student passionate about **hardware security, web application security, and digital forensics**.
 
 - Pursuing Master's in **Electrical and Computer Engineering** at Northeastern University, with a focus in **cybersecurity**
-- Passionate about bridging software and hardware security, with a growing interest in application security and IoT/embedded systems.
+- I enjoy bridging the gap between software and hardware security — from firmware-level vulnerabilities to application layer threats
 - Currently diving into **static malware analysis**, reverse engineering suspicious binaries, and exploring hardware security at the embedded level
 - Love participating in **CTF challenges** to sharpen my problem-solving and investigative skills
 - New to open source and excited to contribute to meaningful security projects
@@ -47,7 +49,7 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 ## `> cat education.txt`
 
 🎓 **M.S. Electrical & Computer Engineering** — Northeastern University *(Expected Dec 2027)*
-   Focus: Computer Systems & Software | Network Security, Embedded Security
+   Focus: Computer Systems & Software | Network Security, OS, IoT Security
 
 🎓 **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
 
@@ -58,7 +60,8 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 ```bash
 $ ls ~/active-projects/
 
- malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in an isolated sandbox environment
+[1]  soc-home-lab/              # Building a personal SOC lab with log ingestion, alerting & threat detection
+[2]  malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in an isolated sandbox environment
 ```
 
 ---
@@ -74,25 +77,57 @@ $ ls ~/active-projects/
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Security & Offensive Tools**
+**Offensive & Pentesting**
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=flat-square&logo=nmap&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-black?style=flat-square)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square)
+![Gobuster](https://img.shields.io/badge/Gobuster-4EAA25?style=flat-square)
+![Nikto](https://img.shields.io/badge/Nikto-grey?style=flat-square)
+
+**Defensive & SOC**
+
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=flat-square)
+![Autopsy](https://img.shields.io/badge/Autopsy-4B0082?style=flat-square)
+![Volatility](https://img.shields.io/badge/Volatility-2F4F4F?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident_Response-8B0000?style=flat-square)
+
+**SIEM & Log Analysis**
+
+![Splunk SIEM](https://img.shields.io/badge/Splunk_SIEM-000000?style=flat-square&logo=splunk&logoColor=white)
+![Event Log Analysis](https://img.shields.io/badge/Event_Log_Analysis-555555?style=flat-square)
+![Brute Force Detection](https://img.shields.io/badge/Brute_Force_Detection-8B0000?style=flat-square)
+![Alert Tuning](https://img.shields.io/badge/Alert_Tuning-FF8C00?style=flat-square)
+
+**Forensics**
+
+![Autopsy](https://img.shields.io/badge/Autopsy-4B0082?style=flat-square)
+![Volatility](https://img.shields.io/badge/Volatility-2F4F4F?style=flat-square)
+![Binwalk](https://img.shields.io/badge/Binwalk-333333?style=flat-square)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-DC143C?style=flat-square)
+
+**IoT & Embedded**
+
+![ESP8266](https://img.shields.io/badge/ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
+![Firmware Hardening](https://img.shields.io/badge/Firmware_Hardening-8B4513?style=flat-square)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Operating Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Infrastructure & Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=flat-square)
-![Arduino/ESP8266](https://img.shields.io/badge/Arduino_|_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
@@ -105,6 +140,7 @@ $ ls ~/active-projects/
 
 **Leadership & Extracurriculars**
 
+- **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
 - **Technical Head – IEEE Student Branch** (2023–2024): Directed technical events, workshops, and hackathons; guided peers in IoT and cybersecurity projects.
 - **Joint Secretary – Talk Club** (2023–2024): Organized seminars, debates, and workshops; managed social media and marketing to boost student engagement.
 - **CTF Member – NUSec, Northeastern University**: Active member of Northeastern University's CTF club, participating in team-based security competitions and collaborative problem-solving.
