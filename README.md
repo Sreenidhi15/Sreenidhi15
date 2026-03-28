@@ -44,6 +44,15 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 
 ---
 
+## `> cat education.txt`
+
+🎓 **M.S. Electrical & Computer Engineering** — Northeastern University *(Expected Dec 2027)*
+   Focus: Computer Systems & Software | Network Security, OS, IoT Security
+
+🎓 **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
+
+---
+
 ## `> ./current_work.sh`
 
 ```bash
@@ -75,13 +84,6 @@ $ ls ~/active-projects/
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 
-**Cryptography & Protocols**
-
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
-![AES-256](https://img.shields.io/badge/AES--256-GCM-red?style=flat-square)
-![RSA/OAEP](https://img.shields.io/badge/RSA_OAEP-grey?style=flat-square)
-![Post-Quantum](https://img.shields.io/badge/Post--Quantum_Crypto_(LWE)-9FEF00?style=flat-square&logoColor=black)
-
 **Operating Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -93,29 +95,24 @@ $ ls ~/active-projects/
 ![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=flat-square)
 ![Arduino/ESP8266](https://img.shields.io/badge/Arduino_|_ESP8266-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-**Tools**
-
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ---
 
 ## `> cat achievements.txt`
 
+**Publications**
+
+- 📄 [**PrepPal: AI Study Assistant**](https://www.ijert.org/preppal-your-go-to-website-for-study-mates-and-exam-preparation) · IJERT/ICSCSET 2025
+- 📄 [**Cloud Storage Connected Security Safe**](https://www.ijraset.com/best-journal/cloud-storage-connected-security-safe) · IJRASET 2022
+
 **Leadership & Extracurriculars**
 
+- **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
 - **Technical Head – IEEE Student Branch** (2023–2024): Directed technical events, workshops, and hackathons; guided peers in IoT and cybersecurity projects.
 - **Joint Secretary – Talk Club** (2023–2024): Organized seminars, debates, and workshops; managed social media and marketing to boost student engagement.
 - **CTF Member – NUSec, Northeastern University**: Active member of Northeastern University's CTF club, participating in team-based security competitions and collaborative problem-solving.
 - **Dynamite Dance Crew** (2022–2025): Performed in college events; classical Bharatnatyam dancer with 8 years of experience.
 - **Junior Public Manager – EDC** (2021–2022): Coordinated E-Summit'22 featuring Smriti Irani as Chief Guest; handled logistics and participant management.
 - **Event Team Head – Cultural Fest** (2021–2022): Led teams for cultural and technical events; managed budgeting, poster design, and event promotion.
-- **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
-
-**Publications**
-
-- 📄 [**PrepPal: AI Study Assistant**](https://www.ijert.org/preppal-your-go-to-website-for-study-mates-and-exam-preparation) · IJERT/ICSCSET 2025
-- 📄 [**Cloud Storage Connected Security Safe**](https://www.ijraset.com/best-journal/cloud-storage-connected-security-safe) · IJRASET 2022
 
 ---
 
