@@ -143,7 +143,7 @@ malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in
 
 **Publications**
 
-- 📄 [**PrepPal: AI Study Assistant**](https://www.ijert.org/preppal-your-go-to-website-for-study-mates-and-exam-preparation) · IJERT/ICSCSET 2025
+- 📄 [**PrepPal: Combating Study Isolation through Smart Peer Matchmaking **](https://www.ijert.org/preppal-your-go-to-website-for-study-mates-and-exam-preparation) · IJERT/ICSCSET 2025
 - 📄 [**Cloud Storage Connected Security Safe**](https://www.ijraset.com/best-journal/cloud-storage-connected-security-safe) · IJRASET 2022
 
 **Leadership & Extracurriculars**
