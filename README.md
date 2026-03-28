@@ -23,7 +23,7 @@
 ███████╗██████╔╝█████╗  █████╗  ██╔██╗ ██║██║██║  ██║███████║██║
 ╚════██║██╔══██╗██╔══╝  ██╔══╝  ██║╚██╗██║██║██║  ██║██╔══██║██║
 ███████║██║  ██║███████╗███████╗██║ ╚████║██║██████╔╝██║  ██║██║
-╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝
+╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝ 
 ```
 
 <div align="center">
@@ -37,7 +37,7 @@
 I'm a Graduate Student passionate about **hardware security, web application security, and digital forensics**.
 
 - Pursuing Master's in **Electrical and Computer Engineering** at Northeastern University, with a focus in **cybersecurity**
-- I enjoy bridging the gap between software and hardware security — from firmware-level vulnerabilities to application layer threats
+- Passionate about bridging software and hardware security, with a growing interest in application security and IoT/embedded systems.
 - Currently diving into **static malware analysis**, reverse engineering suspicious binaries, and exploring hardware security at the embedded level
 - Love participating in **CTF challenges** to sharpen my problem-solving and investigative skills
 - New to open source and excited to contribute to meaningful security projects
@@ -47,7 +47,7 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 ## `> cat education.txt`
 
 🎓 **M.S. Electrical & Computer Engineering** — Northeastern University *(Expected Dec 2027)*
-   Focus: Computer Systems & Software | Network Security, OS, IoT Security
+   Focus: Computer Systems & Software | Network Security, Embedded Security
 
 🎓 **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
 
@@ -58,8 +58,7 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 ```bash
 $ ls ~/active-projects/
 
-[1]  soc-home-lab/              # Building a personal SOC lab with log ingestion, alerting & threat detection
-[2]  malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in an isolated sandbox environment
+ malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in an isolated sandbox environment
 ```
 
 ---
@@ -106,7 +105,6 @@ $ ls ~/active-projects/
 
 **Leadership & Extracurriculars**
 
-- **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
 - **Technical Head – IEEE Student Branch** (2023–2024): Directed technical events, workshops, and hackathons; guided peers in IoT and cybersecurity projects.
 - **Joint Secretary – Talk Club** (2023–2024): Organized seminars, debates, and workshops; managed social media and marketing to boost student engagement.
 - **CTF Member – NUSec, Northeastern University**: Active member of Northeastern University's CTF club, participating in team-based security competitions and collaborative problem-solving.
