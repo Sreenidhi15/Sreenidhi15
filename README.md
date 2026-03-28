@@ -60,8 +60,7 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 ```bash
 $ ls ~/active-projects/
 
-[1]  soc-home-lab/              # Building a personal SOC lab with log ingestion, alerting & threat detection
-[2]  malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in an isolated sandbox environment
+ malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in an isolated sandbox environment
 ```
 
 ---
@@ -140,7 +139,6 @@ $ ls ~/active-projects/
 
 **Leadership & Extracurriculars**
 
-- **B.E. Electronic & Telecommunication (Honors in Cybersecurity)** — Dr. D. Y. Patil Institute of Engineering, Management & Research
 - **Technical Head – IEEE Student Branch** (2023–2024): Directed technical events, workshops, and hackathons; guided peers in IoT and cybersecurity projects.
 - **Joint Secretary – Talk Club** (2023–2024): Organized seminars, debates, and workshops; managed social media and marketing to boost student engagement.
 - **CTF Member – NUSec, Northeastern University**: Active member of Northeastern University's CTF club, participating in team-based security competitions and collaborative problem-solving.
