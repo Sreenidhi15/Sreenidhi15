@@ -54,6 +54,22 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 - New to open source and excited to contribute to meaningful security projects
 
 ---
+## `> stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreenidhi15&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreenidhi15&layout=compact&theme=radical&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sreenidhi15&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreenidhi15&theme=radical" />
+</div>
+
+---
 
 ## `> cat education.txt`
 
