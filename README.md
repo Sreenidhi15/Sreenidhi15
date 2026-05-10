@@ -169,11 +169,7 @@ malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in
 ## `> contributions`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreenidhi15/Sreenidhi15/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreenidhi15/Sreenidhi15/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Sreenidhi15/Sreenidhi15/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreenidhi15&theme=react-dark&hide_border=true&area=true&color=FF0000&line=FF0000&point=FFFFFF" />
 </div>
 
 ---
