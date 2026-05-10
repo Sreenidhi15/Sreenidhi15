@@ -52,14 +52,7 @@ I'm a Graduate Student passionate about **hardware security, web application sec
 - Currently diving into **static malware analysis**, reverse engineering suspicious binaries, and exploring hardware security at the embedded level
 - Love participating in **CTF challenges** to sharpen my problem-solving and investigative skills
 - New to open source and excited to contribute to meaningful security projects
-
----
-## `> contributions`
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/FF0000/Sreenidhi15" alt="Sreenidhi's GitHub Contribution Chart" />
-</div>
-
+- 
 ---
 
 ## `> cat education.txt`
@@ -170,6 +163,17 @@ malware-analysis-lab/      # Static & dynamic analysis of suspicious binaries in
 
 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/sreenidhiramani/) · [ramani.sr@northeastern.edu](mailto:ramani.sr@northeastern.edu)
 
+</div>
+
+---
+## `> contributions`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sreenidhi15/Sreenidhi15/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sreenidhi15/Sreenidhi15/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sreenidhi15/Sreenidhi15/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
